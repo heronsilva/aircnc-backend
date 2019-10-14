@@ -29,7 +29,7 @@ module.exports = {
       user: user_id,
       thumbnail: filename,
       company,
-      tech: tech.map(tech => tech.trim()),
+      tech: tech.split(',').map(tech => tech.trim()),
       price
     })
 
