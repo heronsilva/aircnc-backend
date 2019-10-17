@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="./README.css" />
-
 ![logo](https://user-images.githubusercontent.com/9641348/66985105-7926fb00-f092-11e9-9b58-d8edac3690e2.png)
 
 
@@ -69,25 +67,25 @@ When a mobile user fills a [booking request through the app](#booking-request), 
 
 The mobile app login requires the user's e-mail and the technology he would like to learn and work with.
 
-![login-form-mobile](https://user-images.githubusercontent.com/9641348/66985102-7926fb00-f092-11e9-9e24-8608868a49d6.png)
+<img src="https://user-images.githubusercontent.com/9641348/66985102-7926fb00-f092-11e9-9e24-8608868a49d6.png" alt="login-form-mobile" width="40%" />
 
 
 ## Spots
 
 A list of companies that provide spots for the user's preferred technologies.
 
-![spot-list-mobile](https://user-images.githubusercontent.com/9641348/66985110-7a582800-f092-11e9-9e4c-b9d95a41cf74.png)
+<img src="https://user-images.githubusercontent.com/9641348/66985110-7a582800-f092-11e9-9e4c-b9d95a41cf74.png" alt="spot-list-mobile" width="40%" />
 
 
 ## Booking request
 
 Once the user finds a nice opportunity, he can book a request with a date of preference.
 
-![booking-request-mobile](https://user-images.githubusercontent.com/9641348/66985107-79bf9180-f092-11e9-96fe-24ddc5f2d1e0.png)
+<img src="https://user-images.githubusercontent.com/9641348/66985107-79bf9180-f092-11e9-96fe-24ddc5f2d1e0.png" alt="booking-request-mobile" width="40%" />
 
 
 ## Booking request approved
 
 If the admin approves the user's booking request, he will receive a real time notification.
 
-![booking-request-approved-mobile](https://user-images.githubusercontent.com/9641348/66985100-788e6480-f092-11e9-9097-b38b55642c09.png)
+<img src="https://user-images.githubusercontent.com/9641348/66985100-788e6480-f092-11e9-9097-b38b55642c09.png" alt="booking-request-approved-mobile" width="40%" />
